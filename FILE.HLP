@@ -1,0 +1,33 @@
+ File transfer help
+ ------------------
+
+ All new files - lists all new files which have been uploaded since your last
+logon.
+
+ Change file area - lets you change your current file area.
+
+ Download - allows you to download a file from a file area.
+
+ Expanded file area listing - prints a list of all file areas you have access
+to, along with their creator and the usertypes required to upload and download
+on them.
+
+ Find a file - searches all file areas and lists the ones which contain the
+file you are looking for.
+
+ Help - this stuff.
+
+ List file areas - print a normal listing of all file areas you have access to.
+
+ Make file area - allows you to create a file area. *
+
+ Quit - returns to the main menu.
+
+ Reconfigure file area - allows you to reconfigure a file area which you have
+created. *
+
+ Scan file area - prints out all the files located in a file area.
+
+ Upload - lets you upload a file to a file area.
+
+ * Requires a security level of 3 or higher to access.

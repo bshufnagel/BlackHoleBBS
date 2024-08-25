@@ -1,0 +1,18 @@
+ Email read help
+ ---------------
+
+ Auto-reply - lets you automatically write a reply to the sender of the
+letter you just received.
+
+ Help - this stuff.
+
+ Kill - deletes the current letter you are reading.
+
+ Next - advances to the next letter in your mailbox, if there is one.
+
+ Previous - backs up to the previous letters in your mailbox, if there
+is one.
+
+ Quit - ends reading your mail and returns to the Main menu.
+
+ Reread - rereads the current letter.

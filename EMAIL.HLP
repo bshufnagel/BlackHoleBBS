@@ -1,0 +1,12 @@
+ Email functions help
+ --------------------
+
+ Feedback to sysop - sends a letter automatically directed to the sysop.
+
+ Help - this stuff.
+
+ Quit - returns to the Main menu.
+
+ Receive mail - lets you read any letters you have waiting in your mailbox.
+
+ Send mail - allows you to send a letter to any user on the board.

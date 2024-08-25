@@ -1,0 +1,38 @@
+ Board functions help
+ --------------------
+ 
+ All new messages - reads all the new messages which have been posted on
+all unfiltered subboards since your last logon.
+
+ Change subboard configuration - lets you reconfigure a subboard which you
+have created. *
+
+ Expanded subboard listing - lists all subboards, along with their creator,
+the user types which can read and post on them, and whether or not you have
+them filtered.
+
+ Filter subboard - lets you filter or unfilter a particular subboard.  When
+a subboard is filtered, it will not be included in the All New Message scan;
+however, you can still read it using the Read subboard function, if you wish.
+
+ Help - this stuff.
+ 
+ Kill message - allows you to kill a message you have posted.
+
+ List subboards - gives a normal listing of subboards.  This does not
+include the ones you have filtered.
+
+ Make subboard - allows you to create a subboard. *
+
+ Post a message - lets you post a message on a subboard.
+
+ Quit - exits the Board functions menu and returns to the Main menu.
+
+ Read subboard - allows you to read the messages on a subboard.
+
+ Unfilter all subboards - automatically unfilters all subboards you have access
+to which are filtered.
+
+ Zap subboard - lets you kill a subboard you have made.
+ 
+ * Requires a security level of 3 or higher to access.

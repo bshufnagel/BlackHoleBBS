@@ -1,0 +1,24 @@
+ Message read help.
+
+ [C]ontinuous read - activates non-stop reading of messages on this subboard.
+
+ [E]mail - sends a letter to the author of the current message.
+
+ [F]ilter - filters this subboard.
+
+ [H]elp - this stuff.
+
+ [J]ump - jump to a specified message number on this subboard.
+ 
+ [K]ill - kills this message, if it's yours.
+
+ [N]ext - advances to the next message, if there is one.
+
+ [P]revious - backs up to the previous message, if there is one.
+
+ [R]eread - rereads this message.
+
+ [Q]uit - ends reading messages and returns to the previous one.
+
+ [X]-it subboard - exits the current subboard you are reading.
+ 

@@ -1,0 +1,20 @@
+ Your status help
+ ----------------
+
+ Change handle - lets you change your handle.
+
+ Graphics on/off - this lets you toggle whether you want ANSI graphics
+displayed, providing the BBS is configured to allow them.
+
+ Help - this stuff.
+
+ Password change - allows you to change your logon password.
+
+ Quit - returns to the main menu.
+ 
+ System status - displays current information on the state of the system.
+
+ X-pert user mode - toggles the X-pert user mode on or off.  When on, the
+X-pert user mode will shorten some system prompts.
+
+ Your status - displays your current statistics.

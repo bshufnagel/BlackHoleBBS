@@ -1,0 +1,21 @@
+ Editor help
+ -----------
+
+ Continue message - lets you continuing entering lines to your message.
+
+ Delete line - deletes a line in your message, and moves the text following
+it up to occupy the empty space.
+
+ Help - this stuff.
+
+ Insert line - lets you insert a line of text in your message.
+
+ List message - allows you to list your message out, with or without
+line numbers.
+
+ Quit - aborts message entry; your message will not be not saved.
+
+ Replace line - lets you replace a line of text in your message with a
+different line of text.
+
+ Save message - saves your message.

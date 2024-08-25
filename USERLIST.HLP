@@ -1,0 +1,12 @@
+ User listings help
+ ------------------
+
+ All users - gives a list of all users on the system, along with their
+user ID number.
+
+ Date listing - gives a listing of all users on the system, along with
+their last call date.
+
+ Help - this stuff.
+
+ Quit - returns to the Main menu.

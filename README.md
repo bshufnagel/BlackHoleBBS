@@ -1,5 +1,18 @@
 # BlackHoleBBS
-Black Hole BBS program for the IBM PC from 1987.  Compiled in Borland Turbo BASIC
+This is the Black Hole BBS (bulletin board system) program from 1987
+for the IBM PC and compatible computer systems.  This program was
+developed by me to provide similar functionality to another popular
+BBS program at the time, MTABBS (Mike's Totally Awesome Bulletin Board
+System), which ran on Radio Shack Model III and IV devices.  This
+was also was a way for me to learn the Borland Turbo Basic development
+environment which was mildly popular at the time.  Most of the
+original Black Hole BBS code should be here, although there were a
+couple small bits coded in Microsoft Assembler that seem to have gone
+missing over the years. But even so hopefully folks find this code
+useful for something.  :-)  Have fun!
+
+Bradley Hufnagel
+
 
 Information from the original AD.MSG file (formatted for GitHub):
 
